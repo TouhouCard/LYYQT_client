@@ -2,7 +2,8 @@
   "name": "lyyqt_client",
   "version": "0.0.1",
   "script": {
-    "build": "grunt"
+    "build": "grunt",
+    "test": "grunt"
   },
   "dependencies": {
     "grunt": "~0.4.2",
